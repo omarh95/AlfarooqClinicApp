@@ -87,14 +87,14 @@ public class MainActivity extends AppCompatActivity {
 
     //TODO: Update phone number
     public void callNumber(View view) {
-        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:4046050240"));
+        Intent intent = new Intent(Intent.ACTION_DIAL, Uri.parse("tel:1234567890"));
         Button callButton = (Button) findViewById(R.id.callButton);
         startActivity(intent);
     }
 
     //TODO: Update email address
     public void sendEmail(View view) {
-        Intent sendEmailIntent = new Intent(Intent.ACTION_SENDTO, Uri.parse("mailto:omarh95@gmail.com"));
+        Intent sendEmailIntent = new Intent(Intent.ACTION_SENDTO, Uri.parse("mailto:example@gmail.com"));
         startActivity(sendEmailIntent);
     }
 }
