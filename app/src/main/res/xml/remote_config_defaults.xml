@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>doctor_available</key>
+        <value>Dr. Akbar</value>
+    </entry>
+    <entry>
+        <key>open_this_week</key>
+        <value>true</value>
+    </entry>
+</defaultsMap>

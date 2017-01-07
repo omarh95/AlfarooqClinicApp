@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820779739457",
+    "firebase_url": "https://alfarooq-clinic-app.firebaseio.com",
+    "project_id": "alfarooq-clinic-app",
+    "storage_bucket": "alfarooq-clinic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820779739457:android:cd7d8e45d5acb8f4",
+        "android_client_info": {
+          "package_name": "com.example.omar.alfarooqclinicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820779739457-t6nt0s4s73lujqp3h05d9ubjbt7tb7gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omar.alfarooqclinicapp",
+            "certificate_hash": "DA77D22BE77BA97EC15239470F381C8BB6605687"
+          }
+        },
+        {
+          "client_id": "820779739457-gok1jk77gca8604c6l04vju0vrdqt3mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHFxcrkSYZOnNnClYb25okcTzEZO4REo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820779739457-gok1jk77gca8604c6l04vju0vrdqt3mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

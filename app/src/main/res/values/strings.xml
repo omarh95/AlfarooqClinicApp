@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alfarooq Masjid Clinic</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="call_button">Call Us</string>
+    <string name="send_email">Send Email</string>
+    <string name="loading_text">Loading...</string>
+    <string name="clinic_status_text">This Sunday, the clinic will be:</string>
+    <string name="doctor_text">The doctor this Sunday will be:</string>
+</resources>
